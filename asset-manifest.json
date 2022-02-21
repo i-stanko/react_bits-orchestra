@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_bits-orchestra/static/css/main.743ae0b8.css",
+    "main.js": "/react_bits-orchestra/static/js/main.36e3df0b.js",
+    "index.html": "/react_bits-orchestra/index.html",
+    "main.743ae0b8.css.map": "/react_bits-orchestra/static/css/main.743ae0b8.css.map",
+    "main.36e3df0b.js.map": "/react_bits-orchestra/static/js/main.36e3df0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.743ae0b8.css",
+    "static/js/main.36e3df0b.js"
+  ]
+}
